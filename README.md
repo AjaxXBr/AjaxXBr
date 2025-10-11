@@ -2,6 +2,7 @@
 
 🎓 Tenho 22 anos e estou cursando **Ciência da Computação**.  
 🚀 Atualmente, estou me dedicando aos estudos de **HTML**, **CSS** e **JavaScript**, com foco em desenvolvimento web. 
+
 💡 Tenho interesse em **Java (Servlet/Tomcat)** e **SQL**, explorando o caminho full-stack.  
 ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de **estágio** na área de tecnologia.
 
@@ -12,7 +13,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 

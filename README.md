@@ -2,7 +2,7 @@
 
 🎓 Tenho 22 anos e estou cursando **Ciência da Computação** pela **Universidade FUMEC (6º período)**.  
 🚀 Atualmente, estou me dedicando aos estudos de **HTML**, **CSS** e **JavaScript**, com foco em desenvolvimento web.  
-💡 Tenho interesse em **Java (Servlet/Tomcat)** e **SQL**, explorando o caminho full-stack.
+💡 Tenho interesse em **Java (Servlet/Tomcat)** e **SQL**, explorando o caminho full-stack.  
 ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de **estágio**.   
 
 ---

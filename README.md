@@ -2,7 +2,6 @@
 
 🎓 Tenho 22 anos e estou cursando **Ciência da Computação**.  
 🚀 Atualmente, estou me dedicando aos estudos de **HTML**, **CSS** e **JavaScript**, com foco em desenvolvimento web. 
-
 💡 Tenho interesse em **Java (Servlet/Tomcat)** e **SQL**, explorando o caminho full-stack.  
 ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de **estágio** na área de tecnologia.
 

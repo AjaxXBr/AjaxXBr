@@ -18,8 +18,6 @@
 
 ### 📊 Meus Status no GitHub  
 
-### 📊 Meus Status no GitHub  
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjaxXBr&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaxXBr&layout=compact&theme=tokyonight)

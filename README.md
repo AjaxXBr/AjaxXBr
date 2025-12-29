@@ -1,7 +1,7 @@
 # Oi, eu sou o Ricardo 👨‍💻  
 
 🎓 Tenho 22 anos e estou cursando **Ciência da Computação** pela **Universidade FUMEC (6º período)**.  
-🚀 Atualmente, estou me dedicando aos estudos de **HTML**, **CSS** e **JavaScript**, com foco em desenvolvimento web.  
+🚀 Atualmente, estou me dedicando aos estudos de **HTML**, **CSS** e **JavaScript**, com foco em desenvolvimento Full-Stack.  
 💡 Tenho interesse em **Java (Servlet/Tomcat)** e **SQL**, explorando o caminho full-stack.  
 ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de **estágio**.   
 
@@ -18,5 +18,5 @@
 
 ### 📊 Meus Status no GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjaxXBr&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaxXBr&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjaxXBr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaxXBr&layout=compact&theme=tokyonight&cache_seconds=1800)

@@ -18,5 +18,9 @@
 
 ### 📊 Meus Status no GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjaxXBr&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaxXBr&layout=compact&theme=tokyonight&cache_seconds=1800)
+### 📊 Meus Status no GitHub  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AjaxXBr&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaxXBr&layout=compact&theme=tokyonight)
+

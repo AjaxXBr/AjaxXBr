@@ -1,7 +1,7 @@
 # Oi, eu sou o Ricardo 👨‍💻  
 
 🎓 Tenho 22 anos e estou cursando **Ciência da Computação** pela **Universidade FUMEC (7º período)**.  
-🚀 Atualmente, estou me dedicando aos estudos de **HTML**, **CSS** e **JavaScript**, com foco em desenvolvimento Full-Stack.  
+🚀 Atualmente, estou me dedicando aos estudos com foco em desenvolvimento Full-Stack.  
 💡 Tenho interesse em **Java (Servlet/Tomcat)** e **SQL**, explorando o caminho full-stack.  
 ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de **estágio**.   
 

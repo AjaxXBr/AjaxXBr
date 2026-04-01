@@ -20,9 +20,9 @@
 
 ---
 
-<h1 align='left'>🛠️ Tecnologias</h1>
+<h1 align="left">🛠️ Tecnologias</h1>
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,mysql,git" />
 </p>
 

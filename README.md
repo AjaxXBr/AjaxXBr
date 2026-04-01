@@ -19,8 +19,6 @@
 
   ---
 
-  Aqui está o emoji de ferramentas utilizado na imagem, pronto para você copiar e colar no seu arquivo do GitHub:
-
 ## 🛠️ Tecnologias
 
 Se você quiser usar exatamente o mesmo título da imagem no seu Markdown, o código é:

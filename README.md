@@ -5,7 +5,7 @@
     🎓 Tenho 22 anos e estou cursando <b>Ciência da Computação</b> pela <b>Universidade FUMEC (7º período)</b>[cite: 1, 4, 25].<br>
     🚀 Atualmente, estou me dedicando aos estudos com foco em desenvolvimento <b>Full-Stack</b>[cite: 4].<br>
     💡 Meus interesses principais são <b>REACT, HTML, CSS, JavaScript, JAVA (Servlet/Tomcat) e SQL</b>.<br>
-    ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de <b>estágio</b>[cite: 7].
+    ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de <b>estágio</b>.
   </p>
 
   <p>

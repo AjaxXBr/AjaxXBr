@@ -19,7 +19,7 @@
 
   ---
 
-  ### [cite_start]🧰 Tecnologias que eu uso no dia a dia
+  ### 🧰 Tecnologias que eu uso no dia a dia
 
   <p>
     <img src="https://skillicons.dev/icons?i=java,mysql,js,react,html,css,ts,py,git,figma" />

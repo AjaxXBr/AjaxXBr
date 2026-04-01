@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Oi, eu sou o Ricardo 👨‍💻</h1>
+  <h1>Oi, eu sou o Ricardo Brandhuber Ribeiro Mendes👨‍💻</h1>
 
   <p>
     🎓 Tenho 22 anos e estou cursando <b>Ciência da Computação</b> pela <b>Universidade FUMEC (7º período)</b>.<br>

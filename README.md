@@ -41,7 +41,7 @@
 <h1 align="left">🐍 Contribuições</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AjaxXBr/AjaxXBr/output/github-contribution-grid-snake-dark.svg" alt="Snake Fluida Dark" />
+  <img src="https://raw.githubusercontent.com/AjaxXBr/AjaxXBr/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </div>
 
 ---

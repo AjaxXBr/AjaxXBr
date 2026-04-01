@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="left">🛠️ Tecnologias</h3>
+<h2 align="left">🛠️ Tecnologias</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,mysql,git" />

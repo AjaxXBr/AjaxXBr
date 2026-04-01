@@ -30,8 +30,8 @@
     <td align="center"><b>Portfolio</b></td>
     <td>Meu site pessoal de portfólio — feito com as melhores tecnologias do frontend</td>
     <td align="center">
-      <a href="https://github.com/AjaxXBr">GitHub</a> • 
-      <a href="LINK_DO_SEU_SITE">Site</a>
+      <a href="https://github.com/AjaxXBr/Portf-lio">GitHub</a> • 
+      <a href="https://ajaxxbr.github.io/Portf-lio/">Site</a>
     </td>
   </tr>
 </table>

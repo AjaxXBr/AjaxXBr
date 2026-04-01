@@ -20,8 +20,6 @@
 
 ---
 
----
-
 <h1 align="left">🛠️ Tecnologias</h1>
 
 <div align="center">

@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Eu sou o Ricardo Brandhuber Ribeiro Mendes👨‍💻</h1>
+  <h1>Olá! Eu sou o Ricardo Brandhuber Ribeiro Mendes 👨‍💻</h1>
 
   <p>
     🎓 Tenho 22 anos e estou cursando <b>Ciência da Computação</b> pela <b>Universidade FUMEC (7º período)</b>.<br>
@@ -16,22 +16,21 @@
         <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/AjaxXBr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
     </a>
   </p>
+</div>
 
-  ---
+---
 
+### 🛠️ Tecnologias
 
-## 🛠️ Tecnologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,mysql,git" />
+</p>
 
+---
 
-  <p>
-    <img src="https://skillicons.dev/icons?i=react,html,css,js,mysql,git" />
-  </p>
+### 🚀 Projetos
 
-  ---
-
-## 🚀 Projetos
-
-<table align="center">
+<table>
   <tr>
     <th align="center">📁 Projeto</th>
     <th align="center">📝 Descrição</th>
@@ -48,5 +47,3 @@
 </table>
 
 ---
-
-</div>

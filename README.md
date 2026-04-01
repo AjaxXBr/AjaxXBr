@@ -33,14 +33,5 @@
 
   <br>
 
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=AjaxXBr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaxXBr&theme=tokyonight&hide_border=true&layout=donut" />
-      </td>
-    </tr>
-  </table>
+
 </div>

@@ -1,24 +1,41 @@
-name: Generate Datas
+# GitHub Action para gerar o gráfico de contribuição com a cobrinha.
 
+name: Generate Snake
+
+# Controla quando a action será executada. Roda a cada 6 horas.
 on:
-  schedule: # Executa a cada 24 horas
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Permite rodar manualmente a qualquer momento
+  schedule:
+    # a cada 6 horas
+    - cron: "0 */6 * * *"
 
+# Permite rodar a Action manualmente pela aba Actions.
+  workflow_dispatch:
+
+# Sequência de execução:
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
+    # Faz o checkout do seu repositório
+      - uses: actions/checkout@v3
+
+    # Gera a animação da cobrinha
+      - uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: AjaxXBr
+          # Gera os arquivos na pasta dist para a branch "output"
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
 
-      - name: Push to GitHub
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+     # Mostra o status do build para facilitar o debug
+      - run: git status
+
+      # Publica os arquivos na branch "output"
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist

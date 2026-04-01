@@ -46,3 +46,18 @@
 </table>
 
 ---
+
+---
+
+<h1 align="left">📫 Contato</h1>
+
+<div align="center">
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/ricardo-brandhuber-ribeiro-mendes-718936337/">
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---

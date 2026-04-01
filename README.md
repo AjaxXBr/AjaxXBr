@@ -7,15 +7,6 @@
     💡 Meus interesses principais são <b>REACT, HTML, CSS, JavaScript, JAVA (Servlet/Tomcat) e SQL</b>.<br>
     ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de <b>estágio</b>.
   </p>
-
-  <p>
-    <a href="https://github.com/AjaxXBr?tab=repositories&sort=stargazers">
-        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AjaxXBr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
-    </a>
-    <a href="https://github.com/AjaxXBr?tab=followers">
-        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/AjaxXBr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
-    </a>
-  </p>
 </div>
 
 ---

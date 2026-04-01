@@ -19,13 +19,9 @@
 
   ---
 
+
 ## 🛠️ Tecnologias
 
-Se você quiser usar exatamente o mesmo título da imagem no seu Markdown, o código é:
-
-```markdown
-## 🛠️ Tecnologias
-```
 
   <p>
     <img src="https://skillicons.dev/icons?i=java,mysql,js,react,html,css,ts,py,git,figma" />

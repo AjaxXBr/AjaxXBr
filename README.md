@@ -27,6 +27,28 @@
 
   ---
 
+## 🚀 Projetos
+
+<table align="center">
+  <tr>
+    <th align="center">📁 Projeto</th>
+    <th align="center">📝 Descrição</th>
+    <th align="center">🔗 Links</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Portfolio</b></td>
+    <td>Meu site pessoal de portfólio — feito com as melhores tecnologias do frontend</td>
+    <td align="center">
+      <a href="LINK_DO_SEU_GITHUB">GitHub</a> • 
+      <a href="LINK_DO_SEU_SITE">Site</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+  ---
+
   ## 📊 Estatísticas do GitHub
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaxXBr&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />

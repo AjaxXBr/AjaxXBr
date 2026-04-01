@@ -27,8 +27,7 @@
 </div>
 
 ---
-
-### 🚀 Projetos
+<h2 align="left">🚀 Projetos</h2>
 
 <table>
   <tr>

@@ -2,8 +2,8 @@
   <h1>Oi, eu sou o Ricardo 👨‍💻</h1>
 
   <p>
-    🎓 Tenho 22 anos e estou cursando <b>Ciência da Computação</b> pela <b>Universidade FUMEC (7º período)</b>[cite: 1, 4, 25].<br>
-    🚀 Atualmente, estou me dedicando aos estudos com foco em desenvolvimento <b>Full-Stack</b>[cite: 4].<br>
+    🎓 Tenho 22 anos e estou cursando <b>Ciência da Computação</b> pela <b>Universidade FUMEC (7º período)</b>.<br>
+    🚀 Atualmente, estou me dedicando aos estudos com foco em desenvolvimento <b>Full-Stack</b>.<br>
     💡 Meus interesses principais são <b>REACT, HTML, CSS, JavaScript, JAVA (Servlet/Tomcat) e SQL</b>.<br>
     ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de <b>estágio</b>.
   </p>
@@ -19,7 +19,7 @@
 
   ---
 
-  ### [cite_start]🧰 Tecnologias que eu uso no dia a dia [cite: 36]
+  ### [cite_start]🧰 Tecnologias que eu uso no dia a dia
 
   <p>
     <img src="https://skillicons.dev/icons?i=java,mysql,js,react,html,css,ts,py,git,figma" />

@@ -20,11 +20,13 @@
 
 ---
 
+---
+
 <h1 align="left">🛠️ Tecnologias</h1>
 
-<p align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,js,mysql,git" />
-</p>
+</div>
 
 ---
 

@@ -2,34 +2,42 @@
 
 🎓 Tenho 22 anos e estou cursando **Ciência da Computação** pela **Universidade FUMEC (7º período)**.  
 🚀 Atualmente, estou me dedicando aos estudos com foco em desenvolvimento Full-Stack.  
-💡 Tenho interesse em **Java (Servlet/Tomcat)** e **SQL**, explorando o caminho full-stack.  
+💡 Tenho interesse em **Java (Servlet/Tomcat)** e **SQL**.  
 ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de **estágio**.   
 
 ---
 
 ### 🧰 Tecnologias que eu uso no dia a dia  
 
-## 🛠 Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,angular,js,html,css,figma,git,java,postgres" />
+</p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,react,angular,js,html,css,figma,git" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=AjaxXBr&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjaxXBr&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AjaxXBr&theme=transparent&hide_border=true&layout=donut)
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=AjaxXBr&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjaxXBr&theme=tokyonight&hide_border=true&layout=donut" />
+    </td>
+  </tr>
+</table>
 
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-
+---

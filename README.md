@@ -20,7 +20,7 @@
 ---
 <h2 align="left">🚀 Projetos</h2>
 
-<table>
+<table align="left">
   <tr>
     <th align="center">📁 Projeto</th>
     <th align="center">📝 Descrição</th>
@@ -30,25 +30,29 @@
     <td align="center"><b>Portfolio</b></td>
     <td>Meu site pessoal de portfólio — feito com as melhores tecnologias do frontend</td>
     <td align="center">
-      <a href="LINK_DO_SEU_GITHUB">GitHub</a> • 
+      <a href="https://github.com/AjaxXBr">GitHub</a> • 
       <a href="LINK_DO_SEU_SITE">Site</a>
     </td>
   </tr>
 </table>
+
+<br><br><br><br> ---
+
+<h1 align="left">🐍 Contribuições</h1>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AjaxXBr/AjaxXBr/output/github-contribution-grid-snake-dark.svg" alt="Snake Fluida Dark" />
+</div>
 
 ---
 
 <h1 align="left">📫 Contato</h1>
 
 <div align="center">
-  <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
+  <a href="mailto:RedStalkerofficial@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/ricardo-brandhuber-ribeiro-mendes-718936337/">
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
-
----
-
-![snake gif](https://github.com/AjaxXBr/AjaxXBr/blob/output/github-contribution-grid-snake.gif)

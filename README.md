@@ -49,7 +49,7 @@
 
 ---
 
-<h1 align="left">📫 Contato</h1>
+<h2 align="left">📫 Contato</h2>
 
 <div align="center">
   <a href="mailto:seu-email@gmail.com">

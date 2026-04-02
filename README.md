@@ -40,6 +40,23 @@
 
 ---
 
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjaxXBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjaxXBr&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>
+
+
+---
+
 <h1 align="left">📫 Contato</h1>
 
 <div align="center">

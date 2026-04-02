@@ -4,29 +4,25 @@
   <p>
     🎓 Tenho 22 anos e estou cursando <b>Ciência da Computação</b> pela <b>Universidade FUMEC (7º período)</b>.<br>
     🚀 Atualmente, estou me dedicando aos estudos com foco em desenvolvimento <b>Full-Stack</b>.<br>
-    💡 Meus interesses principais são <b>REACT, HTML, CSS, JavaScript, JAVA (Servlet/Tomcat) e SQL</b>.<br>
+    💡 Meus interesses principais são <b>React, HTML, CSS, JavaScript, Java (Servlet/Tomcat) e SQL</b>.<br>
     ✨ Busco constantemente aprimorar minhas habilidades e conquistar uma oportunidade de <b>estágio</b>.
   </p>
 
   <p align="left"> 
-    <a href="https://github.com/[SEU_USUARIO_GITHUB]?tab=followers">
+    <a href="https://github.com/AjaxXBr?tab=followers">
          <img 
          alt="followers" 
          title="Me siga no GitHub" 
-         src="https://custom-icon-badges.demolab.com/github/followers/[SEU_USUARIO_GITHUB]?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         src="https://custom-icon-badges.demolab.com/github/followers/AjaxXBr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
          </a>
-    <a href="https://github.com/[SEU_USUARIO_GITHUB]?tab=repositories&sort=stargazers">
+    <a href="https://github.com/AjaxXBr?tab=repositories&sort=stargazers">
          <img alt="total stars" 
          title="Total de estrelas" 
-         src="https://custom-icon-badges.demolab.com/github/stars/[SEU_USUARIO_GITHUB]?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
-    <a href="https://www.linkedin.com/in/[SEU_LINKEDIN]"
+         src="https://custom-icon-badges.demolab.com/github/stars/AjaxXBr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+    <a href="https://www.linkedin.com/in/ricardo-brandhuber-ribeiro-mendes-718936337/"
         target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
          title="Vamos fazer uma conexão!" /></a>
-    <a href="https://discord.com/users/[SEU_DISCORD_ID]"
-        target="_blank">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-        </a>
    </p>
 </div>
 
@@ -35,10 +31,11 @@
 <h2 align="left">🛠️ Tecnologias</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,java,mysql,git,github" />
 </div>
 
 ---
+
 <h2 align="left">🚀 Projetos</h2>
 
 <table align="left">
@@ -47,17 +44,35 @@
     <th align="center">📝 Descrição</th>
     <th align="center">🔗 Links</th>
   </tr>
+
   <tr>
-    <td align="center"><b>Portfolio</b></td>
-    <td>Meu site pessoal de portfólio — feito com as melhores tecnologias do frontend</td>
+    <td align="center"><b>Portfólio</b></td>
+    <td>Site pessoal com design moderno, responsivo e animações, desenvolvido com <b>HTML, CSS e JavaScript</b> para apresentar projetos e habilidades.</td>
     <td align="center">
       <a href="https://github.com/AjaxXBr/Portf-lio">GitHub</a> • 
       <a href="https://ajaxxbr.github.io/Portf-lio/">Site</a>
     </td>
   </tr>
+
+  <tr>
+    <td align="center"><b>Pomodoro Timer</b></td>
+    <td>Aplicação web baseada na técnica Pomodoro, com controle de tempo, interface interativa e foco em produtividade.</td>
+    <td align="center">
+      <a href="https://github.com/AjaxXBr">GitHub</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Calculadora</b></td>
+    <td>Calculadora funcional com interface moderna, suporte a operações matemáticas e manipulação de eventos com JavaScript puro.</td>
+    <td align="center">
+      <a href="https://github.com/AjaxXBr">GitHub</a>
+    </td>
+  </tr>
+
 </table>
 
-<br><br><br><br> 
+<br><br><br><br><br><br>
 
 ---
 
@@ -74,7 +89,6 @@
     width="390"
   />
 </p>
-
 
 ---
 

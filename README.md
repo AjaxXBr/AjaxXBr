@@ -66,27 +66,15 @@
   <tr>
     <td align="center"><b>Portfólio</b></td>
     <td>Site pessoal com design moderno, responsivo e animações, desenvolvido com <b>HTML, CSS e JavaScript</b> para apresentar projetos e habilidades.</td>
-  </tr>
-
-  <tr>
-    <td align="center"><b>Pomodoro Timer</b></td>
-    <td>Aplicação web baseada na técnica Pomodoro, com controle de tempo e foco em produtividade.</td>
     <td align="center">
-      <a href="https://github.com/AjaxXBr">GitHub</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center"><b>Calculadora</b></td>
-    <td>Calculadora funcional com interface moderna e manipulação de eventos usando JavaScript puro.</td>
-    <td align="center">
-      <a href="https://github.com/AjaxXBr">GitHub</a>
+      <a href="https://github.com/AjaxXBr/Portf-lio">GitHub</a> • 
+      <a href="https://ajaxxbr.github.io/Portf-lio/">Site</a>
     </td>
   </tr>
 
 </table>
 
-<br><br><br><br><br>
+<br><br><br>
 
 ---
 

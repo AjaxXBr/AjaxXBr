@@ -17,7 +17,7 @@
       />
     </a>
 
-    <p align="center">
+  <p align="center">
 
 <a href="https://github.com/AjaxXBr?tab=followers">
   <img src="https://img.shields.io/github/followers/AjaxXBr?style=for-the-badge&color=236ad3&label=SEGUIDORES" />

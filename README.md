@@ -34,6 +34,10 @@
   <img src="https://img.shields.io/badge/PORTFÓLIO-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
+<a href="mailto:RedStalkerofficial@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 </p>
   </p>
 
@@ -89,13 +93,3 @@
 
 ---
 
-<h2 align="left">📫 Contato</h2>
-
-<div align="center">
-  <a href="mailto:RedStalkerofficial@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/ricardo-brandhuber-ribeiro-mendes-718936337/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>

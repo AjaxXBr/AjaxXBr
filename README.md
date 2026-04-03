@@ -17,29 +17,25 @@
       />
     </a>
 
-    <a href="https://github.com/AjaxXBr?tab=repositories&sort=stargazers">
-      <img 
-        alt="total stars" 
-        title="Total de estrelas" 
-        src="https://custom-icon-badges.demolab.com/github/stars/AjaxXBr?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
-      />
-    </a>
+    <p align="center">
 
-    <a href="https://www.linkedin.com/in/ricardo-brandhuber-ribeiro-mendes-718936337/" target="_blank">
-      <img 
-        src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-        alt="LinkedIn"
-        title="Vamos fazer uma conexão!"
-      />
-    </a>
+<a href="https://github.com/AjaxXBr?tab=followers">
+  <img src="https://img.shields.io/github/followers/AjaxXBr?style=for-the-badge&color=236ad3&label=SEGUIDORES" />
+</a>
 
-    <a href="https://ajaxxbr.github.io/Portf-lio/" target="_blank">
-      <img 
-        src="https://img.shields.io/badge/Portfólio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" 
-        alt="Portfólio"
-        title="Acesse meu site"
-      />
-    </a>
+<a href="https://github.com/AjaxXBr?tab=repositories&sort=stargazers">
+  <img src="https://img.shields.io/github/stars/AjaxXBr?style=for-the-badge&color=55960c&label=ESTRELAS" />
+</a>
+
+<a href="https://www.linkedin.com/in/ricardo-brandhuber-ribeiro-mendes-718936337/">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://ajaxxbr.github.io/Portf-lio/">
+  <img src="https://img.shields.io/badge/PORTFÓLIO-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</p>
   </p>
 
 </div>

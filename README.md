@@ -66,10 +66,6 @@
   <tr>
     <td align="center"><b>Portfólio</b></td>
     <td>Site pessoal com design moderno, responsivo e animações, desenvolvido com <b>HTML, CSS e JavaScript</b> para apresentar projetos e habilidades.</td>
-    <td align="center">
-      <a href="https://github.com/AjaxXBr/Portf-lio">GitHub</a> • 
-      <a href="https://ajaxxbr.github.io/Portf-lio/">Site</a>
-    </td>
   </tr>
 
   <tr>

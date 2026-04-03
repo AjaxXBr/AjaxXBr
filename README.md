@@ -8,20 +8,15 @@
     ✨ Busco constantemente evoluir minhas habilidades e conquistar uma oportunidade de <b>estágio</b>.
   </p>
 
-  <p align="center"> 
-    <a href="https://github.com/AjaxXBr?tab=followers">
+  <p align="center">
+
+<a href="https://github.com/AjaxXBr?tab=followers">
       <img 
         alt="followers" 
         title="Me siga no GitHub" 
         src="https://custom-icon-badges.demolab.com/github/followers/AjaxXBr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
       />
     </a>
-
-  <p align="center">
-
-<a href="https://github.com/AjaxXBr?tab=followers">
-  <img src="https://img.shields.io/github/followers/AjaxXBr?style=for-the-badge&color=236ad3&label=SEGUIDORES" />
-</a>
 
 <a href="https://github.com/AjaxXBr?tab=repositories&sort=stargazers">
   <img src="https://img.shields.io/github/stars/AjaxXBr?style=for-the-badge&color=55960c&label=ESTRELAS" />

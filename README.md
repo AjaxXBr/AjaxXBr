@@ -2,7 +2,7 @@
   <h1>Olá! Eu sou o Ricardo Brandhuber Ribeiro Mendes 👨‍💻</h1>
 
   <p>
-    🎓 Tenho 22 anos e estou cursando <b>Ciência da Computação</b> pela <b>Universidade FUMEC (7º período)</b>.<br>
+    🎓 Tenho 22 anos e estou cursando <b>Ciência da Computação</b> pela <b>Universidade FUMEC (8º período)</b>.<br>
     🚀 Atualmente, estou focado em desenvolvimento <b>Full-Stack</b>.<br>
     💡 Meus principais interesses são <b>React, HTML, CSS, JavaScript, Java (Servlet/Tomcat) e SQL</b>.<br>
     ✨ Busco constantemente evoluir minhas habilidades e conquistar uma oportunidade de <b>estágio</b>.

@@ -26,9 +26,3 @@
 <tr><td align="center"><b>Portfólio</b></td><td>Site pessoal com design moderno, responsivo e animações, desenvolvido com <b>HTML, CSS e JavaScript</b> para apresentar projetos e habilidades.</td><td align="center"><a href="https://github.com/AjaxXBr/Portf-lio">GitHub</a> • <a href="https://ajaxxbr.github.io/Portf-lio/">Site</a></td></tr>
 <tr><td align="center"><b>Sistema de Gestão Técnica</b></td><td>Aplicação web/mobile desenvolvida com <b>Ionic e Firebase</b>, voltada ao gerenciamento de usuários e equipamentos. Possui <b>autenticação, operações CRUD, atualização de status e sincronização de dados em tempo real</b>, com interfaces prototipadas no Figma.</td><td align="center"><a href="https://ajaxxbr.github.io/tecnososA/tabs/clientes">Site</a></td></tr>
 </table>
-
-📊 Estatísticas
-<p align="center">
-<img alt="Estatísticas do GitHub" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjaxXBr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" width="420">
-<img alt="Linguagens mais utilizadas" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjaxXBr&layout=compact&theme=tokyonight&locale=pt-br" width="390">
-</p>

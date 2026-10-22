@@ -1,3 +1,4 @@
+
 <div align="center">
   <h1>Olá! Eu sou o Ricardo Brandhuber Ribeiro Mendes 👨‍💻</h1>
 
@@ -5,42 +6,40 @@
     🎓 Tenho 22 anos e estou cursando <b>Ciência da Computação</b> pela <b>Universidade FUMEC (8º período)</b>.<br>
     🚀 Atualmente, estou focado em desenvolvimento <b>Full-Stack</b>.<br>
     💡 Meus principais interesses são <b>React, HTML, CSS, JavaScript, Java (Servlet/Tomcat) e SQL</b>.<br>
-    ✨ Busco constantemente evoluir minhas habilidades e conquistar uma oportunidade de <b>estágio</b>.
+    ✨ Busco constantemente evoluir minhas habilidades e conquistar uma oportunidade como <b>Desenvolvedor Júnior</b>.
   </p>
 
   <p align="center">
 
-<a href="https://github.com/AjaxXBr?tab=followers">
-  <img 
-    alt="followers" 
-    title="Me siga no GitHub" 
-    src="https://custom-icon-badges.demolab.com/github/followers/AjaxXBr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-  />
-</a>
+    <a href="https://github.com/AjaxXBr?tab=followers">
+      <img 
+        alt="followers" 
+        title="Me siga no GitHub" 
+        src="https://custom-icon-badges.demolab.com/github/followers/AjaxXBr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+      />
+    </a>
 
-<a href="https://github.com/AjaxXBr?tab=repositories&sort=stargazers">
-  <img 
-    alt="total stars" 
-    title="Total de estrelas" 
-    src="https://custom-icon-badges.demolab.com/github/stars/AjaxXBr?color=55960c&labelColor=488207&style=for-the-badge&logo=star&label=Estrelas"
-  />
-</a>
+    <a href="https://github.com/AjaxXBr?tab=repositories&sort=stargazers">
+      <img 
+        alt="total stars" 
+        title="Total de estrelas" 
+        src="https://custom-icon-badges.demolab.com/github/stars/AjaxXBr?color=55960c&labelColor=488207&style=for-the-badge&logo=star&label=Estrelas"
+      />
+    </a>
 
-<a href="https://www.linkedin.com/in/ricardo-brandhuber-ribeiro-mendes-718936337/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+    <a href="https://www.linkedin.com/in/ricardo-brandhuber-ribeiro-mendes-718936337/">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
 
-<a href="https://ajaxxbr.github.io/Portf-lio/">
-  <img src="https://img.shields.io/badge/PORTFÓLIO-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+    <a href="https://ajaxxbr.github.io/Portf-lio/">
+      <img src="https://img.shields.io/badge/PORTFÓLIO-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
 
-<a href="mailto:RedStalkerofficial@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
+    <a href="mailto:RedStalkerofficial@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
 
-</p>
   </p>
-
 </div>
 
 ---
@@ -48,7 +47,7 @@
 <h2 align="left">🛠️ Tecnologias</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,java,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,java,mysql,git,github,firebase" />
 </div>
 
 ---
@@ -66,8 +65,22 @@
     <td align="center"><b>Portfólio</b></td>
     <td>Site pessoal com design moderno, responsivo e animações, desenvolvido com <b>HTML, CSS e JavaScript</b> para apresentar projetos e habilidades.</td>
     <td align="center">
-      <a href="https://github.com/AjaxXBr/Portf-lio">GitHub</a> • 
+      <a href="https://github.com/AjaxXBr/Portf-lio">GitHub</a> •
       <a href="https://ajaxxbr.github.io/Portf-lio/">Site</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Sistema de Gestão Técnica</b></td>
+    <td>
+      Aplicação Web/Mobile desenvolvida com <b>Ionic e Firebase</b>,
+      voltada ao gerenciamento de usuários e equipamentos.
+      Possui <b>autenticação, operações CRUD, atualização de status
+      e sincronização de dados em tempo real</b>, com interfaces
+      prototipadas no Figma.
+    </td>
+    <td align="center">
+      <a href="https://ajaxxbr.github.io/tecnososA/tabs/clientes">Site</a>
     </td>
   </tr>
 
@@ -92,4 +105,3 @@
 </p>
 
 ---
-
